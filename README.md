@@ -57,6 +57,11 @@ Putty
 ```
 
 ```
+sudo port select --set python python311
+sudo port select --set python3 python311
+```
+
+```
 cp /opt/local/bin/putty ~/Desktop/PuTTY
 ```
 
