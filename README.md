@@ -14,6 +14,18 @@
 
 ![](https://github.com/ibasloom/putty-on-macOS/blob/main/images/xcode.png)
 
+
+To check your Xcode version from the GUI, follow these steps:
+
+1 . Open Xcode on your Mac.
+
+2 . Click on the "Xcode" menu in the top left corner of the screen.
+
+3 . Click on "About Xcode" in the dropdown menu.
+
+4 . A popup window will appear with the version number of Xcode displayed.
+
+
 --------------
 
 ### 2 . Mac Ports
