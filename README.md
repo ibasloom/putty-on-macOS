@@ -71,6 +71,14 @@ To check your Xcode version from the GUI, follow these steps:
 
 --------------
 
+-----------
+
+#### Error i have faced 
+
+![](https://github.com/ibasloom/putty-on-macOS/blob/main/images/Error.png)
+
+-----------
+
 --------------
 
 ### 5 . XQuartz
@@ -80,6 +88,15 @@ To check your Xcode version from the GUI, follow these steps:
 ### [To Download xquartz ](https://www.xquartz.org/)
 
 ![](https://github.com/ibasloom/putty-on-macOS/blob/main/images/xquartz.png)
+
+-----------
+
+#### After file has been downloaded on macos
+
+-----------
+
+
+![](https://github.com/ibasloom/putty-on-macOS/blob/main/images/xquartz%20file.png)
 
 --------------
 
