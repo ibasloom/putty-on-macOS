@@ -52,6 +52,19 @@ To check your Xcode version from the GUI, follow these steps:
 
 --------------
 
+
+### [To Download Command Line Tools](https://developer.apple.com/download/all/)
+
+![](https://github.com/ibasloom/putty-on-macOS/blob/main/images/command%20line%20tools.png)
+
+
+-----------
+
+#### After file has been downloaded on macos
+
+-----------
+
+![](https://github.com/ibasloom/putty-on-macOS/blob/main/images/commandline%20file.png)
 --------------
 
 ### 4 . Putty
