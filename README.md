@@ -1,4 +1,4 @@
-#### 1 . Xcode
+### 1 . Xcode
 --------------
 
 1 . Open the App Store on your Mac.
@@ -12,33 +12,35 @@
 5 . Once the download is complete, Xcode will appear in your "Applications" folder.
 
 
---------------
-
-#### 2 . Mac Ports
+![](https://github.com/ibasloom/putty-on-macOS/blob/main/images/xcode.png)
 
 --------------
 
---------------
-
-#### 3 . Command Line Tools
+### 2 . Mac Ports
 
 --------------
 
 --------------
 
-#### 4 . Putty
+### 3 . Command Line Tools
 
 --------------
 
 --------------
 
-#### 5 . XQuartz
+### 4 . Putty
 
 --------------
 
 --------------
 
-#### 6 . Connect To AWS Instance
+### 5 . XQuartz
+
+--------------
+
+--------------
+
+### 6 . Connect To AWS Instance
 
 --------------
 
