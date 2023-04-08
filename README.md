@@ -30,6 +30,10 @@ To check your Xcode version from the GUI, follow these steps:
 
 ### 2 . Mac Ports
 
+#### Download Mac Ports
+
+[macports](https://www.macports.org/install.php)
+
 --------------
 
 --------------
