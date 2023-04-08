@@ -28,6 +28,20 @@ xcode-select –install
 sudo port -v selfupdate
 ```
 
+```
+export PATH=$PATH:/opt/local/bin
+```
+
+```
+source .profile
+```
+
+```
+sudo port -v selfupdate
+```
+
+
+
 ----------
 
 4 . Install Putty 
