@@ -28,13 +28,13 @@ To check your Xcode version from the GUI, follow these steps:
 
 --------------
 
-### 2 . Command Line Tools
+### 2 . Mac Ports
 
 --------------
 
 --------------
 
-### 3 . Mac Ports
+### 3 . Command Line Tools
 
 --------------
 
