@@ -77,6 +77,10 @@ To check your Xcode version from the GUI, follow these steps:
 
 --------------
 
+### [To Download xquartz ](https://www.xquartz.org/)
+
+![](https://github.com/ibasloom/putty-on-macOS/blob/main/images/xquartz.png)
+
 --------------
 
 ### 6 . Connect To AWS Instance
