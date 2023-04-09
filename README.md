@@ -103,6 +103,34 @@ To check your Xcode version from the GUI, follow these steps:
 
 --------------
 
+
+### Commands Which We Use In This Tutorials
+
+```
+cd /Applications/Utilities
+```
+
+```
+xcode-select –install
+```
+
+
+
+```
+sudo port select --set python python311
+sudo port select --set python3 python311
+```
+
+```
+cp /opt/local/bin/putty ~/Desktop/PuTTY
+```
+
+```
+Putty
+``
+
+
+
 ### 6 . Connect To AWS Instance
 
 --------------
