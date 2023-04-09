@@ -143,6 +143,9 @@ source .profile
 sudo port -v selfupdate
 ```
 
+```
+sudo port upgrade outdated
+```
 
 
 ### 6 . Connect To AWS Instance
