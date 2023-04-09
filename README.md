@@ -113,9 +113,6 @@ cd /Applications/Utilities
 ```
 xcode-select –install
 ```
-```
-cp /opt/local/bin/putty ~/Desktop/PuTTY
-```
 
 ```
 Putty
@@ -147,6 +144,10 @@ sudo port install putty
 ```
 sudo port select --set python python311
 sudo port select --set python3 python311
+```
+
+```
+cp /opt/local/bin/putty ~/Desktop/PuTTY
 ```
 
 
