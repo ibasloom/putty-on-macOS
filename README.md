@@ -129,6 +129,20 @@ cp /opt/local/bin/putty ~/Desktop/PuTTY
 Putty
 ```
 
+#### Fix: sudo: port: command not found
+
+```
+export PATH=$PATH:/opt/local/bin
+```
+
+```
+source .profile
+```
+
+```
+sudo port -v selfupdate
+```
+
 
 
 ### 6 . Connect To AWS Instance
