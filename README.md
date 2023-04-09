@@ -79,6 +79,11 @@ To check your Xcode version from the GUI, follow these steps:
 
 -----------
 
+![](https://github.com/ibasloom/putty-on-macOS/blob/main/images/putty%20username.png)
+
+
+
+![](https://github.com/ibasloom/putty-on-macOS/blob/main/images/putty%20auth.png)
 --------------
 
 ### 5 . XQuartz
