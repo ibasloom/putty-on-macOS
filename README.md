@@ -127,7 +127,7 @@ cp /opt/local/bin/putty ~/Desktop/PuTTY
 
 ```
 Putty
-``
+```
 
 
 
