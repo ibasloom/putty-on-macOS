@@ -148,6 +148,11 @@ sudo port upgrade outdated
 ```
 
 
+```
+sudo port install putty
+```
+
+
 ### 6 . Connect To AWS Instance
 
 --------------
